@@ -1,7 +1,7 @@
 
 //npm i bootstrap reactstrap axios sweetalert
 import React, {useState, useEffect} from 'react';
-import 'bootstrap/dist/css/bootstrapcgr.css';
+//simport 'bootstrap/dist/css/bootstrapcgr.css';
 import {Modal, ModalBody, ModalFooter, ModalHeader} from 'reactstrap';
 import axios from 'axios';
 //libreria para mejorar los alert   https://sweetalert.js.org/guides/
