@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import 'bootstrap/dist/css/bootstrapcgr.css';
+//import 'bootstrap/dist/css/bootstrapcgr.css';
 import "../assets/css/style.css";// ***
 import imagenes from'../assets/imagenes'
 //import {Modal, ModalBody, ModalFooter, ModalHeader} from 'reactstrap';

@@ -1,6 +1,6 @@
 import React from 'react';
 import * as ReactBootStrap from "react-bootstrap";
-import 'bootstrap/dist/css/bootstrapcgr.css';// **** 
+//import 'bootstrap/dist/css/bootstrapcgr.css';// **** 
 import {
     //BrowserRouter as Router,
     Link
