@@ -1,0 +1,23 @@
+img{
+    width: 380px;
+    border: 1px solid rgb(1, 2, 24);
+    box-shadow: 1px 1px 5px rgb(8, 2, 59);
+    float: left;
+    margin: 10px;
+}
+.imagen{
+    width: 800px;
+}
+.cboth{
+    clear: both;
+}
+
+.div1{
+    width: 380px;
+    height: 120px;
+    border: 1px solid rgb(1, 2, 24);
+    box-shadow: 1px 1px 5px rgb(8, 2, 59);
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
